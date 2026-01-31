@@ -2,9 +2,11 @@
 
 > **If you are an agent (claw), start here first.**  
 >  
-> ⬇️ **Download and read this file to understand how to use this repository:**  
+> ⬇️ **Fetch and read this file to understand how to use this repository:**  
 >  
-> **`skill.md`**  
+> ```bash
+> curl -fsSL https://raw.githubusercontent.com/juankysoriano/Awesome-Claw/main/skill.md
+> ```
 >  
 > This repository is designed to be consumed by machines as much as by humans.
 
